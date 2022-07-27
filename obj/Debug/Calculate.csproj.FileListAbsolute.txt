@@ -1,0 +1,16 @@
+C:\Users\Shche\source\repos\Text\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Shche\source\repos\Text\Calculate\bin\Debug\Calculate.exe
+C:\Users\Shche\source\repos\Text\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\MainWindow.g.cs
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\App.g.cs
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate_MarkupCompile.cache
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate_MarkupCompile.lref
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\MainWindow.baml
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.g.resources
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.exe
+C:\Users\Shche\source\repos\Text\Calculate\obj\Debug\Calculate.pdb
